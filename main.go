@@ -35,5 +35,5 @@ func main() {
 		fmt.Println("No es igual")
 	}
 	
-	ftm.Println("HOLA")
+	ftm.Println("Hola mundo")
 }
