@@ -34,4 +34,6 @@ func main() {
 	} else {
 		fmt.Println("No es igual")
 	}
+	
+	ftm.Println("HOLA")
 }
